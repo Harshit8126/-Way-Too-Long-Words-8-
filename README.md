@@ -27,18 +27,26 @@ Print n lines. The i-th line should contain the result of replacing of the i-th 
 
 Sample Input 0
 =========================================================================================================================================
-4
-word
-localization
-internationalization
-pneumonoultramicroscopicsilicovolcanoconiosis
+4.
+
+
+word.
+
+localization.
+
+internationalization.
+
+pneumonoultramicroscopicsilicovolcanoconiosis.
 
 Sample Output 0
 =========================================================================================================================================
-word
-l10n
-i18n
-p43s
+word.
+
+l10n.
+
+i18n.
+
+p43s.
 
 
 =========================================================================================================================================
